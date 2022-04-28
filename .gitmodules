@@ -22,3 +22,6 @@
 [submodule "buildtools/vcpkg"]
 	path = buildtools/vcpkg
 	url = git@github.com:microsoft/vcpkg.git
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/microsoft/vcpkg.git
